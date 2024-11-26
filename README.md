@@ -1,6 +1,5 @@
 # dotfiles
-things that run my set up
-
+Setup config
 
 TODO: 
 - Upload nix / nix darwin setup
